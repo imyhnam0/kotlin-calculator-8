@@ -2,6 +2,7 @@ plugins {
     kotlin("jvm") version "2.2.0"
 }
 
+
 group = "camp.nextstep.edu"
 version = "1.0-SNAPSHOT"
 
